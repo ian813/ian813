@@ -13,6 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 😄 Hi I'm Euiseok
+
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ian813&theme=dracula" />
+
+<!-- <a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=ian813&theme=calm&show_icons=true" height='200px'>
+</a><br>
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian813&theme=calm&exclude_repo=Jagi,assignment&layout=compact" height='200px'>
+  <img src='http://mazassumnida.wtf/api/v2/generate_badge?boj=leo503801' height='200px'>
+</a> -->
+
 # 📚 STACKS 
 
 ## :fire: Strong
@@ -38,6 +50,9 @@ Here are some ideas to get you started:
 
 ## 백준 Solved.ac 프로필
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ian666)](https://solved.ac/ian666/)
+
+## Github Profile
+[![Euiseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=ian813&count_private=true&custom_title=Euiseok's&nbsp;github&nbsp;&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Github Profile Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=ian813&row=1&column=4&theme=dracula&no-bg=true&margin-w=15)
