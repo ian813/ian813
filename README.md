@@ -38,9 +38,11 @@ Here are some ideas to get you started:
 ## 🌱 Studying
 <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=square&amp;logo=amazonec2&amp;logoColor=white"/> <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=square&amp;logo=amazonrds&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=square&amp;logo=hibernate&amp;logoColor=white"/>
 
+<Br/>
 <hr>
+<Br/>
 
-# 🥰 Profile
+# ✨ Profile
 
 2023.07 ~ 삼성 청년 SW아카데미 2학기 (진행중)
 
@@ -48,9 +50,7 @@ Here are some ideas to get you started:
 
 2016.03 ~ 2023.02 연세대학교 수학과 졸업
 
-<hr>
-
-## 백준 Solved.ac 프로필
+## Solved.ac Profile
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ian666)](https://solved.ac/ian666/)
 
 ## Github Profile
