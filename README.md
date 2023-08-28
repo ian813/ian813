@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 😄 Hi I'm Euiseok
-
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ian813&theme=dracula" />
+![header](https://capsule-render.vercel.app/api?type=wave&color=fcf8f2&height=200&text=😄%20Hi%20I'm%20Euiseok&fontColor=51DBFA)
 
 <!-- <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=ian813&theme=calm&show_icons=true" height='200px'>
