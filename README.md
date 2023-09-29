@@ -48,6 +48,12 @@ Here are some ideas to get you started:
 
 2016.03 ~ 2023.02 연세대학교 수학과 졸업
 
+# 🏆 Certificate
+
+2023.10 SQLD
+
+2023.09 정보처리기사
+
 ## Solved.ac Profile
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ian666)](https://solved.ac/ian666/)
 
